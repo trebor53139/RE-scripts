@@ -13,4 +13,4 @@ The script is powershell script that runs in the commandline style window. To ru
 
 While I have done testing of the script in a Windows 11 virtual machine. Any use of the script is done so at your own risk. I accept no responsibility for any consequences arising from your use of the script period. If you have concerns about using it look for a paid tool from a reputable vendor you trust.
 
-to un script click run as admin short after unziping file loops in script so main program can run again without needing to relaunch main file.
+To Run script click run as admin short after unziping file loops in script so main program can run again without needing to relaunch main file.
