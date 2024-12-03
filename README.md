@@ -20,7 +20,7 @@ This PowerShell script creates a folder named “drivers” at the root of the C
 
 Disclaimer: Any use of this script is done so at user's own risk I assume no responsibility for consequences arising from its use.
 
-3 - winupdatecheck ver2
+3 - winupdatecheck ver3
 
 This PowerShell script provides two main functionalities related to Windows updates:
 
