@@ -28,3 +28,5 @@ This PowerShell script provides two main functionalities related to Windows upda
 
 (2) Checking if a specific Knowledge Base (KB) number is installed on the machine and performing a Bing search for the entered KB number. The script continuously prompts the user to choose between these options, ensuring valid input through a loop, and offers the option to run the program again after completion.
 
+Disclaimer: Any use of this script is done so at user's own risk I assume no responsibility for consequences arising from its use. I test it on a window 10 physcial machine.
+
