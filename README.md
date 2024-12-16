@@ -30,7 +30,7 @@ This PowerShell script provides two main functionalities related to Windows upda
 
 Disclaimer: Any use of this script is done so at user's own risk I assume no responsibility for consequences arising from its use. I test it on a window 10 physcial machine.
 
-4 = bookmark backup
+4 - bookmark backup
 
 The provided PowerShell script automates the backup of bookmarks from Chrome and Edge browsers. It creates a directory at C:\temp\bookmarks if it doesn't already exist, then it copies the bookmarks from each browser into this directory, naming the backup files according to the browser and the current date. Finally, it opens the backup directory and pauses, waiting for user input before closing.
 
