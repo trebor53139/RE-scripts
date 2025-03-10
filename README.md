@@ -36,3 +36,7 @@ The provided PowerShell script automates the backup of bookmarks from Chrome and
 
 created using microsoft copilot use at own risk but has been tested.
 
+5 - winget script powershell v4.ps1
+
+This PowerShell script offers a user-friendly way to manage applications on a Windows computer using `winget`. It provides a menu of options to install, uninstall, export, and back up installed programs, as well as reinstall from a backup and upgrade programs to their latest versions. The script prompts the user for input and performs the chosen action accordingly. Additionally, it includes a loop to ask the user if they want to run the program again, allowing multiple tasks to be performed in one session. The program output is cleared if the user chooses to run the program again, ensuring a clean and seamless experience.
+
