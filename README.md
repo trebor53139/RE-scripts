@@ -51,3 +51,12 @@ Key features:
 
 The script runs in a loop, allowing multiple operations in a single session.
 
+wifi details
+A PowerShell script that extracts all saved Wi-Fi SSIDs and their clear-text passwords into a CSV file.
+Key Features
+
+    Automated Export: Extracts names and passwords to C:\temp\Wi-Fi network details.csv.
+    Self-Managing: Automatically creates the destination folder and overwrites old reports.
+    Instant Access: Opens the export folder automatically upon completion.
+
+
